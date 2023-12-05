@@ -6,7 +6,7 @@
 <br />
 <li> 🛠 Tech Stack</li>
   💻   .NET | C# | Kotlin | Java | Spring Boot<br />
-  🌐   Angular | React | React Hooks | JavaScript | HTML | CSS |  Bootstrap | Redux | NgRx | RxJS <br />
+  🌐   Angular | React | React Hooks | JavaScript | TypeScript | HTML | CSS |  Bootstrap | Redux | NgRx | RxJS <br />
   🛢   SQL | SQL Server | NoSQL | MongoDB | Azure Cosmos DB | Redis | Kafka <br />
   🔧   Git | GitHub | Bitbucket | Jira <br />
   🖥   Azure <br />
