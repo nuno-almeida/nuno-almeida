@@ -19,5 +19,12 @@
             <li><strong>Repo</strong> https://github.com/nuno-almeida/nasa-apod-web-app</li>
         </ul>
     </div>
+      <div>
+        <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" height="20"> <b><i>REST Countries Angular App</i></b></li>
+        <ul>
+            <li><strong>GitHub Page</strong> https://nuno-almeida.github.io/countries-web-app/</li>
+            <li><strong>Repo</strong> https://github.com/nuno-almeida/countries-web-app</li>
+        </ul>
+    </div>
 </li>
 </ul>
