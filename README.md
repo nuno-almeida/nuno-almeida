@@ -26,5 +26,17 @@
             <li><strong>Repo</strong> https://github.com/nuno-almeida/countries-web-app</li>
         </ul>
     </div>
+        <div>
+        <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" height="20"> <b><i>NETCore Sample REST API</i></b></li>
+        <ul>
+            <li><strong>Stack</strong>
+              <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="20">
+              <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="20">
+              <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" height="20">
+              <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" height="20">
+            </li>
+            <li><strong>Repo</strong> https://github.com/nuno-almeida/netcore.sample.web.api</li>
+        </ul>
+    </div>
 </li>
 </ul>
