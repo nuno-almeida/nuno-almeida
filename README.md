@@ -38,7 +38,7 @@
               <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" height="20">
               <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" height="20">
             </li>
-            <li><strong>Repo</strong> https://github.com/nuno-almeida/netcore.sample.web.api</li>
+            <li><strong>Repo</strong> https://github.com/nuno-almeida/netcore-sample-web-api</li>
         </ul>
     </div>
 </li>
