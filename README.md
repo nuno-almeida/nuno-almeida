@@ -11,12 +11,20 @@
   🔧   Git | GitHub | Bitbucket | Jira <br />
   🖥   Azure <br />
 <br />
-<li> 🔭 <strong>Portfolio</strong> 
+<li> 🔭 <strong>Portfolio</strong>
+  <br />
+    <div>
+        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="20"> <b><i>Github Repositories Discovery React App</i></b></li>
+        <ul>
+            <li><strong>Firebase Page </strong>https://gh-repos-408c1.web.app</li>
+            <li><strong>Repo</strong> https://github.com/nuno-almeida/github-repositories-web-app</li>
+        </ul>
+    </div>
   <br />
     <div>
         <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="20"> <b><i>Astronomy Picture of the Day React App</i></b></li>
         <ul>
-            <li><strong>GitHub Page</strong> https://nuno-almeida.github.io/nasa-apod-web-app/</li>
+            <li><strong>GitHub Page</strong> https://nuno-almeida.github.io/nasa-apod-web-app</li>
             <li><strong>Repo</strong> https://github.com/nuno-almeida/nasa-apod-web-app</li>
         </ul>
     </div>
@@ -24,7 +32,7 @@
       <div>
         <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" height="20"> <b><i>REST Countries Angular App</i></b></li>
         <ul>
-            <li><strong>GitHub Page</strong> https://nuno-almeida.github.io/countries-web-app/</li>
+            <li><strong>GitHub Page</strong> https://nuno-almeida.github.io/countries-web-app</li>
             <li><strong>Repo</strong> https://github.com/nuno-almeida/countries-web-app</li>
         </ul>
     </div>
